@@ -1,0 +1,6 @@
+{
+  "name": "Extreme Media Vault & Audio Key BPM Analyzer",
+  "description": "Pro-grade tools for extreme multi-GB photo file management, deduplication, and streaming audio Key & BPM harmonic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
